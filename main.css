@@ -1,0 +1,98 @@
+html {
+    background-image: url("skullcyber.jpg");
+}
+
+.float-child {
+    float: inline-start;
+}
+
+.weatherwidget-io {
+    opacity: .4;
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 400px;
+    align-items: center;
+}
+
+#box0 {
+    background-color: rgba(82, 21, 71, 0.25);
+    color: #fff;
+    width: 300px;
+    padding-top: 20px;
+    padding-left: 25px;
+    padding-right: 80px;
+    padding-bottom: 30px;
+    margin: 50px;
+    border: 5px double rgb(255, 255, 255, 0.1)
+}
+
+ .float-child-1 {
+    width: 300px;
+    float: inline-end;
+    float: below;
+
+}
+#test h1 {
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 80px;
+    color:rgb(10, 80, 62);
+    text-shadow: 2px 2px rgb(244, 247, 92, 0.5);
+}
+
+.##table1 {
+    border: rgba(24, 219, 226, 0.5) 2px dotted;
+    margin-left: 75px;
+    opacity: .75;
+    padding: 20px;
+    background: linear-gradient(rgba(13, 218, 139, .25), rgba(228, 20, 200, .25));
+}
+
+.table td {}
+
+a {
+    color:rgba(206, 241, 8, 0.75);
+    text-shadow: 2px rgba(82, 21, 71, 0.25);
+    font-size: 20px;
+    font-stretch: semi-condensed;
+    font-variant: small-caps;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+h1 {
+    font-variant: small-caps;
+    size: 100%;
+    text-align: inherit;
+    opacity: 0.75;
+}
+
+#table1 {
+    width: 357px;
+}
+
+th {
+    padding: 20px;
+    font-variant: small-caps;
+    font-size: 20px;
+    color: rgba(23, 111, 138, 0.8);
+    text-shadow: rgba(194, 42, 42, 0.5);
+}
+
+td {
+    height: 25px;
+    text-align: center;
+}
+
+a {
+    color:rgb(241, 8, 164, 0.75);
+    text-shadow: 2px rgba(82, 21, 71, 0.25);
+    font-size: 20px;
+    font-stretch: semi-condensed;
+    font-variant: small-caps;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#wikiform {
+    margin: 50px;
+    opacity: .9;
+}
